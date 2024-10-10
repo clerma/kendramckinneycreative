@@ -11,7 +11,7 @@ description: >-
   digital-first environment? Let’s break down the essential trends and tips to
   make your resume stand out in 2024.
 tags:
-image: /uploads/clay-banks-usba2na7izu-unsplash.jpg
+image: /uploads/kenny-eliason-87eqzawn-v8-unsplash.jpg
 ---
 The job market in 2024 is more competitive than ever, and with the rise of technology in hiring processes, creating a standout resume requires more than just listing your experience. Recruiters now use Applicant Tracking Systems (ATS) to scan resumes, which means your resume must be optimized for both technology and human eyes. So, how do you ensure your resume shines in this digital-first environment? Let’s break down the essential trends and tips to make your resume stand out in 2024.
 

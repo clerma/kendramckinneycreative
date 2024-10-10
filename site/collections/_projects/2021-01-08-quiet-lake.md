@@ -1,15 +1,16 @@
 ---
+_schema: default
 date: 2021-01-08 06:20:35 +0300
-title: Quiet Lake
-subtitle: Photography
-image: '/images/project-7.jpg'
+title: From Scratch
+subtitle:
+image: /uploads/carl-heyerdahl-ke0nc8-58mq-unsplash.jpg
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+This is the option for you if you have work experience, but do not have a resume that I can use as a starting point.
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+You would be required to submit any information to me that I would need to build your professional resume using one of my templates.
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+**What you'll get:**
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
-
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+* A brand new resume using one of my professional templates
+* A references page and cover letter template
+* A Zoom call to learn more about you and better tailor your resume to the position you desire (if necessary)

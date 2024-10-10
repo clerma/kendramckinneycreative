@@ -4,8 +4,6 @@ footer_menu__settings:
       url: /
     - title: Services
       url: /services/
-    - title: About
-      url: /about/
     - title: Blog
       url: /blog/
 copyright_text_html: ''

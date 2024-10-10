@@ -9,7 +9,7 @@ This service would best suit someone with no current resume, little work experie
 
 **What You’ll Get:**
 
-* A one page resume including a summary, education, experience, accomplishments, and interests.
+* A one page resume including a summary, education, experience and accomplishments.
 * A separate references page can be added upon request (additional fee).
 * A cover letter can be included (additional fee).
 

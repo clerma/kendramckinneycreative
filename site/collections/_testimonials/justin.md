@@ -1,6 +1,10 @@
 ---
-name: Justin Baptista
-position: Copywriter
-image: 'images/client-1.jpg'
-blurb: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.
+_schema: default
+name: Dustie Latiolais
+position: Professional Chef
+image:
+blurb: >-
+  Kendra did an amazing job on my resume. She was very timely and went above and
+  beyond with the design and all-around layout. I'm very satisfied and would
+  definitely recommend her for your resume needs.
 ---

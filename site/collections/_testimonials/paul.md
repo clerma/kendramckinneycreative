@@ -1,6 +1,9 @@
 ---
-name: Paul Wade
-position: Marketing
-image: 'images/client-4.jpg'
-blurb: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.
+_schema: default
+name: Danielle Hebert
+position: Real Estate Closer
+image:
+blurb: >-
+  Kendra is the "Resume Queen" she is very talented and precise with her work. I
+  highly recommend her to people daily and will continue.
 ---

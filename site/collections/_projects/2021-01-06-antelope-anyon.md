@@ -5,6 +5,8 @@ title: The Professional
 subtitle:
 image: /uploads/vitaly-gariev-jyg5nftloy0-unsplash.jpg
 ---
+This is the option for you if you already have a resume but would like for me to spruce it up and update it using one of my templates. <br>Simply email me your existing resume and include any additions or changes. <br>I’ll use my template and rewrite/update your resume for you!
+
 **What you’ll get:**
 
 * 2 page resume using one of my templates, written by me

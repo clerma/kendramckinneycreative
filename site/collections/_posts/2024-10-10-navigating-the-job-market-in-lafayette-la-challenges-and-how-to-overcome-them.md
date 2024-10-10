@@ -39,7 +39,7 @@ While these challenges can feel daunting, there are ways to strategically positi
 
 It’s crucial to tailor your resume to the specific industries thriving in Lafayette. For example, if you’re applying in oil and gas, highlight any technical skills, certifications, or experience with energy-related projects. For healthcare, emphasize your patient care experience, certifications, or specialized skills. If you’re seeking a remote position, make sure your resume reflects strong communication and self-management abilities.
 
-Pro Tip: Use local job listings as a guide to customize your resume. Look for specific keywords and required skills, then incorporate those into your resume and cover letter.
+*Pro Tip: Use local job listings as a guide to customize your resume. Look for specific keywords and required skills, then incorporate those into your resume and cover letter.*
 
 **2\. Expand Your Network Through Local Organizations**
 

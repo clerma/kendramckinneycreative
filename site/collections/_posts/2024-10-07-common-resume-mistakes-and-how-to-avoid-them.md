@@ -12,8 +12,6 @@ description: >-
 tags:
 image: /uploads/eileen-pan-5d5dsrq5duc-unsplash.jpg
 ---
-### **Common Resume Mistakes and How to Avoid Them**
-
 Crafting the perfect resume can be a challenge, especially with so much conflicting advice available. Unfortunately, common resume mistakes can cost you the job interview—even if you’re highly qualified. The good news? Most of these errors are easy to fix with a little guidance. Let’s take a look at some of the most frequent resume mistakes and how to avoid them, so you can put your best foot forward.
 
 ### **1\. Including Too Much Information**
@@ -40,7 +38,7 @@ A poorly formatted resume can hurt your chances of making a good first impressio
 
 #### **How to Fix It:**
 
-* **Stick to a Clean Layout:** Choose a simple, professional design that prioritizes readability. Use standard headers like "Work Experience," "Skills," and "Education," and make sure your fonts are legible (e.g., Arial, Calibri, or Times New Roman at 10-12pt).
+* **Stick to a Clean Layout:** Choose a simple, professional design that prioritizes readability. Use standard headers like “Work Experience,” “Skills,” and “Education,” and make sure your fonts are legible (e.g., Arial, Calibri, or Times New Roman at 10-12pt).
 * **Use Bullet Points:** Bullet points help break up text and make your resume easier to skim. Limit each job to 3-6 bullet points that highlight key accomplishments or responsibilities.
 * **Leave White Space:** Don’t try to cram too much information onto one page. Adequate white space makes your resume more readable and allows the recruiter to focus on your most important points.
 
@@ -72,7 +70,7 @@ With more companies relying on Applicant Tracking Systems (ATS) to screen resume
 
 #### **How to Fix It:**
 
-* **Use Keywords from the Job Posting:** Carefully review the job description for key terms related to skills, qualifications, and experience. Incorporate those terms naturally into your resume, especially in the "Skills" section and job descriptions.
+* **Use Keywords from the Job Posting:** Carefully review the job description for key terms related to skills, qualifications, and experience. Incorporate those terms naturally into your resume, especially in the “Skills” section and job descriptions.
 * **Avoid Fancy Formatting:** While it’s tempting to use unique formatting, tables, or graphics, these can confuse ATS software. Stick to a simple, clean format that ATS can easily read.
 
 ### **7\. Spelling and Grammar Mistakes**

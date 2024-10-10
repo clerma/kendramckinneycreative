@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-10-17 00:00:00
+date: 2024-10-17 16:00:00
 title: The Power of a Tailored Cover Letter
 description: >-
   In today’s competitive job market, a well-crafted cover letter can be the key

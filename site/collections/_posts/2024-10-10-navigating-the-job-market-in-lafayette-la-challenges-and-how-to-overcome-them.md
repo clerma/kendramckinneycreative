@@ -1,9 +1,7 @@
 ---
 _schema: default
 date: 2024-10-10 16:00:00
-title: >-
-  Navigating the Job Market in Lafayette, LA: Challenges and How to Overcome
-  Them
+title: Navigating the Job Market in Lafayette, LA
 description: >-
   The job market in Lafayette, Louisiana, has been evolving in recent years,
   offering a mix of opportunities and challenges. As a growing hub for the oil

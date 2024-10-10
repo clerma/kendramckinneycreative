@@ -27,7 +27,7 @@ Local small businesses, which are a backbone of the Lafayette economy, also crea
 
 2\. Changing Economic Landscape: Periods of uncertainty in the energy sector can lead to a hiring freeze, affecting job seekers who rely on it. Shifts toward renewable energy may open new opportunities but require a different skill set.
 
-3\. Limited Remote Work Opportunities:\*\* While remote work has exploded nationwide, Lafayette’s job market still skews toward on-site roles, particularly in traditional industries like oil and gas, manufacturing, and healthcare.
+3\. Limited Remote Work Opportunities: While remote work has exploded nationwide, Lafayette’s job market still skews toward on-site roles, particularly in traditional industries like oil and gas, manufacturing, and healthcare.
 
 4\. Networking Barriers: In smaller markets like Lafayette, landing a job can be heavily influenced by who you know. For newcomers or those re-entering the workforce, breaking into established networks can be difficult.
 

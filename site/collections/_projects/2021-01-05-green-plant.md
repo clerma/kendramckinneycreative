@@ -5,8 +5,6 @@ title: The Newbie
 subtitle: Resume for beginners
 image: /uploads/manuelthelensman-gwpeldvmbvq-unsplash.jpg
 ---
-![Recent graduate resume](/uploads/manuelthelensman-gwpeldvmbvq-unsplash.jpg)
-
 This service would best suit someone with no current resume, little work experience, looking for an entry-level job, or even someone fresh out of college.
 
 **What You’ll Get:**

@@ -1,6 +1,6 @@
 ---
 _schema: default
-date:
+date: 2025-01-22 10:00:00
 title: 'Ace Your Next Interview: A Quick Guide to Success'
 description: >-
   Interviews can feel like a nerve-wracking experience, but with the right

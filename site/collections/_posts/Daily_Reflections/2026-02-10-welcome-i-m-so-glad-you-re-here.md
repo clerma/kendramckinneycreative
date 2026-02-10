@@ -1,10 +1,14 @@
 ---
 _schema: default
 date: 2026-02-10 00:00:00
-title: Welcome - I'm so glad you're here.
-description:
+title: Welcome — I’m So Glad You’re Here
+description: >-
+  This space was created intentionally. It is meant to be a place for clarity,
+  growth, honesty, and practical encouragement for real life. The kind of life
+  that is full and beautiful, but also challenging, stretching, and constantly
+  evolving.
 tags:
-image:
+image: /uploads/untitled-design-11.png
 ---
 ## Welcome — I’m So Glad You’re Here
 
